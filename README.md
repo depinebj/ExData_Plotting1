@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository was created for the completion of COursera Exploratory Data Analysis Project 1.
+This repository was created for the completion of Coursera Exploratory Data Analysis Project 1.
 
 There are 4 R files and 4 output PNG files in addition to the README file stored in this repository
 
